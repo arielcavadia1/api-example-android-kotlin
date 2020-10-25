@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Neco demo</string>
+    <string name="artist_name">Artist name</string>
+    <string name="reproductions_title">Reproducciones: 450000</string>
+    <string name="main_title_text">Top 10 Artistas Colombia</string>
+    <string name="charge_title">Cargando </string>
+</resources>
